@@ -43,3 +43,6 @@ This project demonstrates my skills in data modeling, DAX calculations, and inte
 - All necessary measures for analysis were created collectively within a single measure group rather than scattered individually.
 - This approach improves accessibility and organization of measures within the dashboard.
 - Created measures include total sales, total profit, total cost, order count, previous year sales and profit, as well as percentage variations in sales and profit.
+
+## Dashboard Previews
+![General Analyse](

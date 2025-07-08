@@ -51,7 +51,7 @@ This project demonstrates my skills in data modeling, DAX calculations, and inte
 
 ## How to Use
 
-1. Download the `Sales_Performance_Report.pbix` file from this repository.
+1. Doünload the [Sales_Performance_Report.pbix](Sales_Performance_Report.pbix) file from this repository.
 2. Open it using Power BI Desktop.
 3. Review the visualizations and interact with filters and slicers.
 

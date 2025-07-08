@@ -47,3 +47,7 @@ This project demonstrates my skills in data modeling, DAX calculations, and inte
 ## Dashboard Previews
 ![General_Analyze](https://github.com/seymurabdullayev/Sales-Performance-Report/blob/1c33a0acda09b5b15a1201c812f394f2b6dfbd5f/General_Analyze%20.png)
 
+![Regional_Analyze](https://github.com/seymurabdullayev/Sales-Performance-Report/blob/7902235ae7e5e894fdbc6aaa30ed592f9b659722/Regional_Analyze%20.png)
+
+
+

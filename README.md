@@ -45,5 +45,5 @@ This project demonstrates my skills in data modeling, DAX calculations, and inte
 - Created measures include total sales, total profit, total cost, order count, previous year sales and profit, as well as percentage variations in sales and profit.
 
 ## Dashboard Previews
-![General_Analyze](
+![General_Analyze](https://github.com/seymurabdullayev/Sales-Performance-Report/blob/1c33a0acda09b5b15a1201c812f394f2b6dfbd5f/General_Analyze%20.png)
 
